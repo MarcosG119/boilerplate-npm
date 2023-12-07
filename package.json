@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+    "author": "Marcos Garcia",
+    "description": "I am learning how to use node.js!",
+    "keywords": ["node","backend","freecodecamp","freecodecamp"],
+    "license": "MIT",
+    "version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +15,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-    "author": "Marcos Garcia"
+	}
+    
 }
